@@ -3,7 +3,7 @@ title: 複数のGitHubアカウントを使い分ける
 published: 2024-09-03
 description: 'GitHubアカウントの切り替え方を忘れがちなのでメモ'
 image: ''
-tags: [Setup]
+tags: [Git, Setup]
 category: 'Note'
 draft: false
 ---
